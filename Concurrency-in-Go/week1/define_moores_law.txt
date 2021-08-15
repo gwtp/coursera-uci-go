@@ -1,0 +1,8 @@
+Moore's law is an observation where the number of transistors on a CPU double approx every 2
+years.
+It stopped being true because of the power wall. As you increase transistor density, does does the
+power consumption and temperature. Higher temperatures would lead to meltdowns and liquid
+cooling of devices is not available and less practical for devices such as laptops, mobile phones etc.
+It’s also affected by Denard scaling where you cannot continue to scale the voltage down. This
+introduces a new set of problems that makes it impossible to identify voltage swing, the on/off
+position of a transistor. Noise and power leakage contribute to this problem. 
